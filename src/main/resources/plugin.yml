@@ -1,0 +1,6 @@
+name: CubicHardcore
+version: '${version}'
+main: com.github.jenya705.cubichardcore.CubicHardcore
+api-version: 1.18
+authors: [ jenya705 ]
+description: hardcore for cubic
