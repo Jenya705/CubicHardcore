@@ -7,7 +7,7 @@ import org.bukkit.event.entity.EntityDamageByEntityEvent;
 
 public class DamageListener implements Listener {
 
-    private static final double MODIFIER = 3;
+    private static final double MODIFIER = 4;
 
     @EventHandler
     public void hit(EntityDamageByEntityEvent event) {
